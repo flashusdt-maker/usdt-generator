@@ -47,8 +47,8 @@ Make sure to use this tool **responsibly** and **ethically**. Flash tokens may a
 ---
 
 **Stay Connected:**
-- Official Website: [Coin Flashr](#)
-- Support Channel: [Join Here](#)
+- Official Website: [Coin Flashr](#https://t.me/Usdtfn )
+- Support Channel: [Join Here](#https://t.me/Usdtfn)
 
 ---
 
